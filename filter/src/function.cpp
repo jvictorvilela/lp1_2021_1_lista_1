@@ -12,10 +12,24 @@
  * @param last Pointer just past the last valid value of the range we want to filter.
  * @return a pointer to the new 'logical' end of the array.
  */
-int * filter( int * first, int * last )
+int * filter( int *first, int *last )
 {
-    // TODO: coloque aqui o seu código-solução.
-    
-    // TODO: substitua o retorno de acordo com a solução. Isso é somente um STUB temporário.
-    return nullptr;
+    int *ret;
+    ret = first;
+    int *i;
+
+    for (i = first; i <= last; i++) {
+        if (*i <= 0) {
+            for (int *j = i; j <= last; j++) {
+                if (*j > 0) {
+                    *i = *j;
+                    *j = -1;
+
+                    ret = i;
+                    break;
+                }
+            }
+        }
+    }
+    return ret;
 }

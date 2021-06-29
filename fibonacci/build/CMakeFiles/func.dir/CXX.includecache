@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victor/faculdade/lp1_2021_1_lista_1/fibonacci/src/function.cpp
+function.h
+/home/victor/faculdade/lp1_2021_1_lista_1/fibonacci/src/function.h
+
+/home/victor/faculdade/lp1_2021_1_lista_1/fibonacci/src/function.h
+vector
+-
+

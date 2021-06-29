@@ -1,0 +1,8 @@
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/build/CMakeFiles/rebuild_cache.dir
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/build/CMakeFiles/edit_cache.dir
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/build/CMakeFiles/run_tests.dir
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/build/CMakeFiles/func.dir
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/build/tests/CMakeFiles/edit_cache.dir
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/build/tests/CMakeFiles/all_tests.dir
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/build/tests/CMakeFiles/rebuild_cache.dir
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/build/tests/CMakeFiles/TM.dir

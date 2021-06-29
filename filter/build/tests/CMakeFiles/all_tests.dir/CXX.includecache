@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/src/function.h
+
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/tests/include/tm/test_manager.h
+iostream
+-
+iomanip
+-
+algorithm
+-
+string
+-
+unordered_map
+-
+vector
+-
+
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/tests/main.cpp
+iostream
+-
+cassert
+-
+random
+-
+iterator
+-
+algorithm
+-
+include/tm/test_manager.h
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/tests/include/tm/test_manager.h
+../src/function.h
+/home/victor/faculdade/lp1_2021_1_lista_1/filter/src/function.h
+
